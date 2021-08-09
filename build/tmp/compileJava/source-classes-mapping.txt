@@ -1,0 +1,16 @@
+Services/CategoryService.java
+ Services.CategoryService
+Dao/ManageCategory.java
+ Dao.ManageCategory
+Models/Category.java
+ Models.Category
+Dao/ConnectionSQL.java
+ Dao.ConnectionSQL
+Services/ProductService.java
+ Services.ProductService
+Models/Product.java
+ Models.Product
+Dao/ManageProduct.java
+ Dao.ManageProduct
+Controller/ProductServlet.java
+ Controller.ProductServlet
